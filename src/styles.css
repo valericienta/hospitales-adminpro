@@ -1,0 +1,33 @@
+#themecolors {
+    cursor: pointer;
+}
+
+.w150 {
+    width: 150px;
+}
+
+.img-50 {
+    width: 50px;
+}
+
+.w70 {
+    width: 70px;
+}
+
+.fondo-negro {
+    background-color: rgb(0, 0, 0, 0.4);
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    z-index: 9000;
+}
+
+.oculto {
+    display: none;
+}
+
+.pointer {
+    cursor: pointer;
+}
